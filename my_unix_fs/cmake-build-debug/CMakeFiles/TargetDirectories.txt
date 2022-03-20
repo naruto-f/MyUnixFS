@@ -1,0 +1,3 @@
+/mnt/d/linux网络编程/my_unix_fs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/linux网络编程/my_unix_fs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/linux网络编程/my_unix_fs/cmake-build-debug/CMakeFiles/my_unix_fs.dir
